@@ -12,13 +12,3 @@
   <img width='79%' src="https://github.com/sonthuol/sonthuol/blob/main/github-user-contribution.svg?raw=true" />
 </div>
 
-<br>
-<details>
-<summary>Don't click here...</summary>
-<br>
-<p align="center">
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/sonthuol/sonthuol/blob/main/nice.gif?raw=true">
-</p>
-<p align="center">
-Told ya!
-</p>
